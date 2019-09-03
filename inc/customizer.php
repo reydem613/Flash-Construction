@@ -744,7 +744,7 @@ function flash_get_color_schemes() {
 			'label'  => esc_html__( 'Yellow', 'flash' ),
 			'colors' => array(
 				'#ffffff',
-				'#EFCA23',
+				'#00de00!important',
 				'#313b48',
 				'#666666',
 			),

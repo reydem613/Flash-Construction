@@ -109,7 +109,8 @@ responsive CSS
     #site-navigation ul.sub-menu li ul.sub-menu li a,
     .transparent #site-navigation ul li a,
     .transparent #site-navigation ul.sub-menu li a {
-        color: #4c5867;
+        /* color: #4c5867; */
+        color: #c9ccc7;
         display: block;
         line-height: 42px;
         padding: 0 20px 0 0;

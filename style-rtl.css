@@ -1231,7 +1231,8 @@ Header
 }
 
 #site-navigation ul li a {
-	color: #4c5867;
+	/* color: #4c5867; */
+	color: #c9ccc7;
 }
 
 #site-navigation .sub-menu li.menu-item-has-children ul {
@@ -1251,7 +1252,8 @@ Header
 }
 
 #site-navigation .sub-menu li.menu-item-has-children ul li a {
-	color: #4c5867;
+	color: #c9ccc7;
+	/* color: #4c5867; */
 }
 
 #site-navigation .sub-menu li.menu-item-has-children ul li:hover > a {
@@ -1571,7 +1573,8 @@ a,
 }
 
 .transparent #site-navigation ul.sub-menu li a {
-	color: #4c5867;
+	color: #c9ccc7;
+	/* color: #4c5867; */
 	padding: 10px 30px;
 }
 

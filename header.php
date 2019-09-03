@@ -70,15 +70,44 @@ do_action( 'flash_before' ); ?>
 		<div class="header-top">
 			<div class="tg-container">
 				<div class="tg-column-wrapper clearfix">
-					<div class="left-content">
-						<?php echo flash_top_header_content( 'flash_top_header_left' ); ?>
-					</div>
+					 <!-- <div class="left-content">
+						<?php // echo flash_top_header_content( 'flash_top_header_left' ); ?>
+					</div>  -->
+					</div><!--.redes-sociales-->
+               <!-- <div class="direccion clear">
+               Inicio de login
+					<form class="login" name="login" > 
+						<table > 
+						<tr> 
+							<th ><h5>Usuario</h5></th> 
+							<td><span> 
+							<input name="usuario" type="text"  value=""  /> 
+							</span></td> 
+						</tr> 
+						<tr> 
+							<th ><h5>Clave</h5></th> 
+							<td class="clear"><span class="clear"> 
+							<input name="password" type="password"  value=""  /> 
+							</span></td> 
+							<td>
+							</td> 
+						</tr>        
+						</table> 
+					</form> 
+				<span class="entrar-button clear"> 
+                <input value="Entrar" target="_parent" type="button" class="entrar"/>
+            </span>
+            <p><?php  // echo esc_html(get_option('lapizzeria_direccion')); ?></p>
+			 Fin de login 
+          
+                   <p>Télefono: <?php // echo esc_html(get_option('lapizzeria_telefono')); ?></p> 
+        </div> -->
 					<div class="right-content">
 						<?php echo flash_top_header_content( 'flash_top_header_right' ); ?>
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> 
 		<?php endif; ?>
 
 		<div class="header-bottom">
