@@ -31,7 +31,7 @@
 
 		<div id="bottom-footer">
 			<div class="tg-container">
-
+			
 					<?php do_action( 'flash_copyright_area' ); ?>
 
 					<?php wp_nav_menu( array( 'theme_location' => 'footer', 'menu_class' => 'footer-menu', 'fallback_cb' => false, ) ); ?>
@@ -45,9 +45,19 @@
 	 * flash_after_footer hook
 	 */
 	do_action( 'flash_after_footer' ); ?>
+	<!--  -->
 
 	<?php if ( get_theme_mod( 'flash_disable_back_to_top', '' ) != 1 ) : ?>
-	<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+	<div id="whatsapp-btn">
+  <a href="http://bit.ly/32bLdqH" target="_blank" id="wpp-link-btn"><div class="button-whatsapp"><i class="fa fa-whatsapp"></i></div></a>
+   <div class="box-option">
+    <span>Consulta cualquier inquietud y podemos llegar a un acuerdo</span>
+  </div>
+</div>
+	<?php endif; ?>
+
+	<?php if ( get_theme_mod( 'flash_disable_back_to_top', '' ) != 1 ) : ?>
+	<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></i></a>
 	<?php endif; ?>
 </div><!-- #page -->
 

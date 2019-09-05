@@ -115,10 +115,10 @@ function flash_footer_copyright() {
 	?>
 <div class="copyright">
 	<span class="copyright-text">
-		<?php printf( esc_html__( 'Copyright %1$s %2$s', 'flash' ), '&copy; ', date( 'Y' ) ); ?>
+		<?php printf( esc_html__( 'Copyright %1$s %2$s', 'Anonymous' ), '&copy; ', date( 'Y' ) ); ?>
 		<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php echo get_bloginfo( 'name' ); ?></a>
-		<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'flash' ), 'Flash', '<a href="http://themegrill.com/themes/flash" rel="author">ThemeGrill</a>' ); ?>
-		<?php printf( esc_html__( 'Proudly powered by %s', 'flash' ), '<a href="'.esc_url( __( 'https://wordpress.org/', 'flash' ) ).'">' . esc_html__( 'WordPress', 'flash' ) . '</a>' ); ?>
+		<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'Green' ), 'Anonymous Green', '<a href="http://themegrill.com/themes/flash" rel="author">Anonymous</a>' ); ?>
+		<?php printf( esc_html__( 'Proudly powered by %s', 'Green' ), '<a href="'.esc_url( __( 'https://wordpress.org/', 'flash' ) ).'">' . esc_html__( 'Anonymous', 'flash' ) . '</a>' ); ?>
 	</span>
 </div><!-- .copyright -->
 <?php
