@@ -221,3 +221,6 @@ Unless otherwise specified, all the theme files, scripts and images including th
 
 = 1.0.0 - 2016-10-27 =
 * Initial Release
+
+
+Erik
