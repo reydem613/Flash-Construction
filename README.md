@@ -226,10 +226,6 @@ Unless otherwise specified, all the theme files, scripts and images including th
 Erik
 
 e
-e
-e
-e
-e
 5
 5
 5
