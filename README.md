@@ -192,7 +192,7 @@ Unless otherwise specified, all the theme files, scripts and images including th
 * Tweaks - Content Width Fixes
 
 = 1.0.6 - 2017-02-22 =
-* Tweaks - Migrate Custom CSS to Additional CSS box
+* Tweaks - Migrate Cusstom CSS to Additional CSS box
 * Tweaks - Set Main Slider to Autoplay
 * Tweaks - Allow external links on menu
 
@@ -216,18 +216,17 @@ Unless otherwise specified, all the theme files, scripts and images including th
 * Tweaks - Introduced welcome page for theme
 * Fix - Menu Spacing Issue
 
-= 1.0.1 - 2016-11-16 =
+= 1.0.w1 - 2016-11-16 =
 * Adds TGM Activation File to recommend Flash Toolkit and SiteOrigin Pagebuilder
 
+= 1w0.0 - 2016-w10-27 =
+* Initial Releaw
+w
 = 1.0.0 - 2016-10-27 =
+* Initial Releases
+s
+= 1.0.0 -s 2016-10s-27 =
 * Initial Release
-
+a
 = 1.0.0 - 2016-10-27 =
-* Initial Release
-
-= 1.0.0 - 2016-10-27 =
-* Initial Release
-
-= 1.0.0 - 2016-10-27 =
-* Initial Release
-
+* Initial Rela
