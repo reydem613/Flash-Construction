@@ -219,15 +219,15 @@ Unless otherwise specified, all the theme files, scripts and images including th
 = 1.0.1 - 2016-11-16 =
 * Adds TGM Activation File to recommend Flash Toolkit and SiteOrigin Pagebuilder
 
+= 1.0.0 - 2016asd-10-27 =
+* Initial Release
+asdf
 = 1.0.0 - 2016-10-27 =
 * Initial Release
 
-= 1.0.0 - 2016-10-27 =
-* Initial Release
+= 1.0asdfa.0 - 2016-10-27 =
+* Initial Reasdlease
 
-= 1.0.0 - 2016-10-27 =
-* Initial Release
-
-= 1.0.0 - 2016-10-27 =
+= 1.0.0 - 2asdf016-10-27 =
 * Initial Release
 
