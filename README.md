@@ -226,8 +226,10 @@ asdf
 * Initial Release
 
 = 1.0asdfa.0 - 2016-10-27 =
-* Initial Reasdlease
+* Initial Reasdleasertsf
 erwer
-= 1.0.0 - 2asdf016-10-27 =
-* Initial Releasewertwet
+
+asdfasd
+= 1.0.0 - 2asdf016-10-27 =sdfasdf
+* Initial Releasewertwetasdf
 
